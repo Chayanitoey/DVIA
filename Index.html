@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Air Quality In New York City</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="leaflet.css">
+    <link rel="stylesheet" href="Style.css">
+
+    <script src="leaflet.js"></script>
+</head>
+<body>
+    <h1>Visualizing Air Quality in New York City</h1>
+    <div class ="text">Mapping the impact of PM 2.5 by NY neighborhoods from <a href =" https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r"> NYC Open Data</a></div>
+    
+    <h2> What is PM 2.5 ?</h2>
+    
+    <h3>Fine particulate matter (PM2.5) are tiny airborne solid and liquid particles less than 2.5 microns in diameter.
+        <br>Fine particles (PM2.5) are the main cause of reduced visibility (haze)in parts of the United States, including many of our treasured national parks and wilderness areas.
+        <br>PM2.5 in NYC comes from inside and outside the city from all kinds of combustion activity, including the burning of fuel in vehicles, buildings, power plants, and construction equipment, as well as commercial cooking and industrial activities. PM2.5 can either come directly from these sources or be formed in the atmosphere from other pollutants.
+    </h3>
+    
+    <div id="map"></div>
+    <script src="app.js">
+    </script>
+    <footer> Note: The PM 2.5 value represented in this map is calcurated by using the value from December 2018 and December 2017
+    due to the fact that air quality can differ seasonally and the extreme values occur in Winter and Summer. </footer>
+    
+    <h2> Why are we visualizing PM 2.5 on NYC map? </h2>
+      
+    <h3>With this visual, using heat mapping design method, it could help us understand the big picture and see where the most vulnerable areas are. 
+    This will also spark more curiosities on how we can use this base insights to investigate more findings and eventually drive changes in the policy level.  
+    </h3>
+    
+    <h2> What the data is telling us? </h2>
+      
+    <h3>This visualization also provides a new perspective on variation in PM2.5 exposures across populations of differing socioeconomic status(SES). Prior work has found that higher SES communities in NYC experience higher overall PM2.5 and NO2 exposures, due to the confluence of building and traffic sources in high-income areas, a pattern that is unusual among major metropolitan areas where lower SES areas often experience higher pollutant exposures. In contrast to the pattern for total PM2.5, on-road mobile source-attributable PM2.5 concentrations are higher in low-income neighborhoods of the city, indicating that efforts to reduce exposures in these burdened communities should be focused on on-road mobile source-related programs.
+    </h3>
+    <!--excerpt from https://ehjournal.biomedcentral.com/articles/10.1186/s12940-016-0172-6-->
+    
+    
+    
+    
+    <footer>
+    Created By Chayanit Thawaranont as part of projects in Data Visualization & Information Aestthetic Course at Parsons School of Design.
+    Learn more on <a href="#">Github</a>.
+    </footer>
+    
+</body>
+</html>
