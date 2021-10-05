@@ -29,6 +29,14 @@ h1{
     color:white;
 }
 
+h5{
+    padding:100px 300px 10px 500px;
+    text-align: center;
+    font-family: 'Irvin', sans-serif;
+    letter-spacing: 1px;
+    font-size: 75px;
+    color:white;
+}
 .text{
         font-family: 'Irvin', sans-serif;
         font-size: 18px;
