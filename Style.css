@@ -4,11 +4,12 @@ html {
 }
 
 
+
 h3{
     font-family: 'Avenir',serif;
     font-size: 20px;
     text-align: center;
-    padding:50px 200px 80px 200px;
+    /*padding:50px 200px 80px 200px;*/
     letter-spacing: 0.5px;
     font-weight: normal;
     color: white;
@@ -17,20 +18,20 @@ h2{
     font-family: 'Irvin', sans-serif;
     text-align: center;
     font-size: 30px;
-    padding:50px 300px 30px 300px;
+    /*padding:50px 300px 30px 300px;*/
     color: white;
 }
 h1{
-    padding:100px 400px 10px 400px;
+    /*padding:100px 400px 10px 400px;*/
     font-family: 'Irvin', sans-serif;
     text-align: center;
     letter-spacing: 1px;
-    font-size: 75px;
+    font-size: 5vh;
     color:white;
 }
 
 h5{
-    padding:100px 300px 10px 500px;
+    /*padding:100px 300px 10px 500px;*/
     text-align: center;
     font-family: 'Irvin', sans-serif;
     letter-spacing: 1px;
@@ -46,12 +47,12 @@ h5{
 }
 
 footer{
-    padding-top:100px;
+    /*padding-top:100px;*/
     font-family: 'Irvin', sans-serif;
     text-align: center;
     color:white;
     font-size: 12px;
-    padding:50px 500px 80px 500px;
+    /*padding:50px 500px 80px 500px;*/
 }
 
 body{
@@ -63,7 +64,7 @@ body{
 #map{
     text-align: center;
     width: 100%;
-    height: 800px;
+    height: 50vh;
     /*height: 85%;*/
     /*width: 85%;*/
 }
@@ -82,7 +83,7 @@ body{
 }
 
 .info {
-    padding: 6px 8px;
+    /*padding: 6px 8px;*/
     font: 14px/16px Arial, Helvetica, sans-serif;
     background: white;
     background: rgba(255,255,255,0.8);
@@ -127,23 +128,4 @@ a:active {
   color: white;
 }
 
-/* For desktop: */
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 25%;}
-.col-4 {width: 33.33%;}
-.col-5 {width: 41.66%;}
-.col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
-.col-9 {width: 75%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 91.66%;}
-.col-12 {width: 100%;}
 
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-  [class*="col-"] {
-    width: 100%;
-  }
-}
