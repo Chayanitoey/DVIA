@@ -1,0 +1,237 @@
+
+body, html {
+  height: 100%;
+}
+
+
+.parallax {
+  /* The image used */
+  background-image: url("BG.png");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+h1{
+position: absolute;
+text-align:center;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 10%;
+
+/* Hero H1 */
+font-family: Montserrat;
+font-style: normal;
+font-weight: 800;
+font-size: 411%;
+/* or 111% */
+letter-spacing: -0.015em;
+
+color: #FFF8F8;
+
+}
+.square1{
+    
+position: absolute;
+width: 60%;
+height: 20%;
+left: 20%;
+top: 336px;
+
+/*background: #FFF8F8;*/
+}
+
+h2{
+text-align:center;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Body P */
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+letter-spacing: -0.015em;
+
+color: #000000;
+
+}
+
+.square2{
+position: absolute;
+width: 40%;
+height: 40%;
+left: 30%;
+top: 1000px;
+
+background: #FFFBFB;
+}
+
+.square6{
+
+margin-top: 0px;
+position: absolute;
+width: 100%;
+/*height: 1400px;*/
+top: 2700px;
+background: #FFFBFB;
+
+}
+
+
+.square3{
+position: absolute;
+width: 1365px;
+height: 850px;
+left: 83px;
+top: 700px;
+}
+
+h3{
+position: absolute;
+width: 208px;
+height: 36px;
+left: 70%;
+top: 1300px;
+
+/* Body H4 */
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+letter-spacing: -0.015em;
+
+color: #000000;
+
+}
+.image{
+  
+position: absolute;
+width: 566px;
+height: 744px;
+left: 5%;
+top: 1300px;
+background: url(Sketch.jpg);
+
+}
+h4{
+  position: absolute;
+width: 464px;
+height: 716px;
+left: 70%;
+top: 1400px;
+
+/* Body P */
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+letter-spacing: -0.015em;
+
+color: #000000;
+}
+
+  
+}
+.thought{
+  
+position: absolute;
+width: 464px;
+height: 817px;
+left: 70%;
+top: 1995px;
+}
+
+footer{
+position: absolute;
+width: 1200px;
+height: 30px;
+left: 160px;
+top: 3902px;
+bottom: 260px;
+}
+
+footer1{
+    /* Mehmet Akif Karasu ⏤ 2020 */
+
+position: absolute;
+left: 0%;
+/*right: 75.82%;*/
+top: 0%;
+padding-bottom: 10%;
+
+/* Navigation */
+font-family:  'DM Sans', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* or 22px */
+letter-spacing: -0.03em;
+
+/* Secondary */
+color: #062501;
+
+}
+
+/* Instagram */
+.Instagram{
+position: absolute;
+left:65%;
+right: 20.64%;
+font-family:  'DM Sans', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* or 22px */
+letter-spacing: -0.03em;
+color: #181717;
+}
+
+.Linkedin{
+position: absolute;
+left: 75%;
+right: 9.03%;
+font-family:  'DM Sans', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* or 22px */
+letter-spacing: -0.03em;
+color: #181717;
+}
+
+.Github{
+position: absolute;
+left: 85%;
+right: 0%;
+font-family:  'DM Sans', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* or 22px */
+letter-spacing: -0.03em;
+color: #181717;
+}
+

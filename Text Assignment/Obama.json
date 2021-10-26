@@ -1,0 +1,1807 @@
+[
+  {
+    "Word": "united",
+    "Sentiment_Score": 1,
+    "Frequency": "96%"
+  },
+  {
+    "Word": "great",
+    "Sentiment_Score": 3,
+    "Frequency": "88%"
+  },
+  {
+    "Word": "affected",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "recession",
+    "Sentiment_Score": -2,
+    "Frequency": "97%"
+  },
+  {
+    "Word": "crisis",
+    "Sentiment_Score": -3,
+    "Frequency": "97%"
+  },
+  {
+    "Word": "worry",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "lost",
+    "Sentiment_Score": -3,
+    "Frequency": "90%"
+  },
+  {
+    "Word": "dreams",
+    "Sentiment_Score": 1,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "confidence",
+    "Sentiment_Score": 2,
+    "Frequency": "88%"
+  },
+  {
+    "Word": "difficult",
+    "Sentiment_Score": -1,
+    "Frequency": "93%"
+  },
+  {
+    "Word": "uncertain",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "want",
+    "Sentiment_Score": 1,
+    "Frequency": "98%"
+  },
+  {
+    "Word": "stronger",
+    "Sentiment_Score": 2,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "problems",
+    "Sentiment_Score": -2,
+    "Frequency": "93%"
+  },
+  {
+    "Word": "reach",
+    "Sentiment_Score": 1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "greatest",
+    "Sentiment_Score": 3,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "progress",
+    "Sentiment_Score": 2,
+    "Frequency": "88%"
+  },
+  {
+    "Word": "boldly",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "honest",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "admit",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "blame",
+    "Sentiment_Score": -2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "collapsed",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "care",
+    "Sentiment_Score": 2,
+    "Frequency": "99%"
+  },
+  {
+    "Word": "debt",
+    "Sentiment_Score": -2,
+    "Frequency": "95%"
+  },
+  {
+    "Word": "gains",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "failed",
+    "Sentiment_Score": -2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "excuse",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "wealth",
+    "Sentiment_Score": 3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "wealthy",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "opportunity",
+    "Sentiment_Score": 2,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "healthy",
+    "Sentiment_Score": 2,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "bad",
+    "Sentiment_Score": -3,
+    "Frequency": "88%"
+  },
+  {
+    "Word": "revive",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "like",
+    "Sentiment_Score": 2,
+    "Frequency": "99%"
+  },
+  {
+    "Word": "hard",
+    "Sentiment_Score": -1,
+    "Frequency": "95%"
+  },
+  {
+    "Word": "deficit",
+    "Sentiment_Score": -2,
+    "Frequency": "98%"
+  },
+  {
+    "Word": "failure",
+    "Sentiment_Score": -2,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "worsened",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "weak",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "growth",
+    "Sentiment_Score": 2,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "grateful",
+    "Sentiment_Score": 3,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "pleased",
+    "Sentiment_Score": 3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "save",
+    "Sentiment_Score": 2,
+    "Frequency": "93%"
+  },
+  {
+    "Word": "sick",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "prevented",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "cut",
+    "Sentiment_Score": -1,
+    "Frequency": "95%"
+  },
+  {
+    "Word": "struggling",
+    "Sentiment_Score": -2,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "pay",
+    "Sentiment_Score": -1,
+    "Frequency": "95%"
+  },
+  {
+    "Word": "unemployment",
+    "Sentiment_Score": -2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "benefits",
+    "Sentiment_Score": 2,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "help",
+    "Sentiment_Score": 2,
+    "Frequency": "98%"
+  },
+  {
+    "Word": "skeptical",
+    "Sentiment_Score": -2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "skepticism",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "good",
+    "Sentiment_Score": 3,
+    "Frequency": "97%"
+  },
+  {
+    "Word": "broken",
+    "Sentiment_Score": -1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "promises",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "aggressive",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "waste",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "fraud",
+    "Sentiment_Score": -4,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "no",
+    "Sentiment_Score": -1,
+    "Frequency": "100%"
+  },
+  {
+    "Word": "clean",
+    "Sentiment_Score": 2,
+    "Frequency": "99%"
+  },
+  {
+    "Word": "safe",
+    "Sentiment_Score": 1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "secure",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "choked",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "ability",
+    "Sentiment_Score": 2,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "stopped",
+    "Sentiment_Score": -1,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "fearful",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "forced",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "suffers",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "swiftly",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "destructive",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "restore",
+    "Sentiment_Score": 1,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "launched",
+    "Sentiment_Score": 1,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "responsible",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "threat",
+    "Sentiment_Score": -2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "foreclosure",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "won",
+    "Sentiment_Score": 3,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "hope",
+    "Sentiment_Score": 2,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "advantage",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "interest",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "ensure",
+    "Sentiment_Score": 1,
+    "Frequency": "90%"
+  },
+  {
+    "Word": "support",
+    "Sentiment_Score": 2,
+    "Frequency": "97%"
+  },
+  {
+    "Word": "strong",
+    "Sentiment_Score": 2,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "reckless",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "solve",
+    "Sentiment_Score": 1,
+    "Frequency": "88%"
+  },
+  {
+    "Word": "problem",
+    "Sentiment_Score": -2,
+    "Frequency": "90%"
+  },
+  {
+    "Word": "clearly",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "disappear",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "significant",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "yes",
+    "Sentiment_Score": 1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "inaction",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "greater",
+    "Sentiment_Score": 3,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "worse",
+    "Sentiment_Score": -3,
+    "Frequency": "90%"
+  },
+  {
+    "Word": "refuse",
+    "Sentiment_Score": -2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "infuriated",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "helping",
+    "Sentiment_Score": 2,
+    "Frequency": "90%"
+  },
+  {
+    "Word": "suffering",
+    "Sentiment_Score": -2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "promise",
+    "Sentiment_Score": 1,
+    "Frequency": "93%"
+  },
+  {
+    "Word": "anger",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "rewarding",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "saved",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "secured",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "join",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "rewards",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "innovation",
+    "Sentiment_Score": 1,
+    "Frequency": "95%"
+  },
+  {
+    "Word": "punishes",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "cuts",
+    "Sentiment_Score": -1,
+    "Frequency": "93%"
+  },
+  {
+    "Word": "abuse",
+    "Sentiment_Score": -3,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "strength",
+    "Sentiment_Score": 2,
+    "Frequency": "87%"
+  },
+  {
+    "Word": "vision",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "costly",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "worthy",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "ignore",
+    "Sentiment_Score": -1,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "reject",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "bold",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "big",
+    "Sentiment_Score": 1,
+    "Frequency": "90%"
+  },
+  {
+    "Word": "war",
+    "Sentiment_Score": -2,
+    "Frequency": "93%"
+  },
+  {
+    "Word": "prepared",
+    "Sentiment_Score": 1,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "struggle",
+    "Sentiment_Score": -2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "freedom",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "peril",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "fallen",
+    "Sentiment_Score": -2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "accept",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "thanks",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "protect",
+    "Sentiment_Score": 1,
+    "Frequency": "88%"
+  },
+  {
+    "Word": "kind",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "advanced",
+    "Sentiment_Score": 1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "committed",
+    "Sentiment_Score": 1,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "win",
+    "Sentiment_Score": 4,
+    "Frequency": "90%"
+  },
+  {
+    "Word": "easy",
+    "Sentiment_Score": 1,
+    "Frequency": "87%"
+  },
+  {
+    "Word": "crushing",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "growing",
+    "Sentiment_Score": 1,
+    "Frequency": "90%"
+  },
+  {
+    "Word": "errors",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "cancer",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "best",
+    "Sentiment_Score": 3,
+    "Frequency": "95%"
+  },
+  {
+    "Word": "commitment",
+    "Sentiment_Score": 2,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "comprehensive",
+    "Sentiment_Score": 2,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "suffer",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "doubt",
+    "Sentiment_Score": -1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "challenge",
+    "Sentiment_Score": -1,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "urgent",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "expand",
+    "Sentiment_Score": 1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "competitive",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "improve",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "prevent",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "success",
+    "Sentiment_Score": 2,
+    "Frequency": "93%"
+  },
+  {
+    "Word": "innovative",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "commit",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "encourage",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "spirit",
+    "Sentiment_Score": 1,
+    "Frequency": "90%"
+  },
+  {
+    "Word": "important",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "proud",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "free",
+    "Sentiment_Score": 1,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "ineffective",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "wasted",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "perfectly",
+    "Sentiment_Score": 3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "clear",
+    "Sentiment_Score": 1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "increase",
+    "Sentiment_Score": 1,
+    "Frequency": "87%"
+  },
+  {
+    "Word": "increased",
+    "Sentiment_Score": 1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "strengthen",
+    "Sentiment_Score": 2,
+    "Frequency": "88%"
+  },
+  {
+    "Word": "trust",
+    "Sentiment_Score": 1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "restoring",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "hide",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "carefully",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "combat",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "allow",
+    "Sentiment_Score": 1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "burden",
+    "Sentiment_Score": -2,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "honor",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "inspired",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "relieve",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "vigilant",
+    "Sentiment_Score": 3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "powerful",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "detention",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "swift",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "certain",
+    "Sentiment_Score": 1,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "justice",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "torture",
+    "Sentiment_Score": -4,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "threats",
+    "Sentiment_Score": -2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "alone",
+    "Sentiment_Score": -2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "harm",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "demand",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "peace",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "poverty",
+    "Sentiment_Score": -1,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "avoid",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "entrusted",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "ill",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "cynical",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "doubtful",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "inspiration",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "destroyed",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "tragedy",
+    "Sentiment_Score": -2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "terrible",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "leak",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "stop",
+    "Sentiment_Score": -1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "hopeless",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "willingness",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "resolve",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "agreed",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "fear",
+    "Sentiment_Score": -2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "thank",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "god",
+    "Sentiment_Score": 1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "bless",
+    "Sentiment_Score": 2,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "fulfilled",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "beaten",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "bloody",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "courage",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "severe",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "collapse",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "warned",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "worst",
+    "Sentiment_Score": -3,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "burdens",
+    "Sentiment_Score": -2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "struggles",
+    "Sentiment_Score": -2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "frustrated",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "angry",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "rewarded",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "tired",
+    "Sentiment_Score": -2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "shared",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "chance",
+    "Sentiment_Score": 2,
+    "Frequency": "90%"
+  },
+  {
+    "Word": "better",
+    "Sentiment_Score": 2,
+    "Frequency": "87%"
+  },
+  {
+    "Word": "share",
+    "Sentiment_Score": 1,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "stubborn",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "hopeful",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "encouraged",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "unified",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "hated",
+    "Sentiment_Score": -3,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "bailout",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "popular",
+    "Sentiment_Score": 3,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "promised",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "supported",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "rescue",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "keen",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "rescued",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "avert",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "disaster",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "gain",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "anguish",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "TRUE",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "dream",
+    "Sentiment_Score": 1,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "supports",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "slash",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "hurting",
+    "Sentiment_Score": -2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "delay",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "reached",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "ambitious",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "contentious",
+    "Sentiment_Score": -2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "uncomfortable",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "interested",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "risks",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "threaten",
+    "Sentiment_Score": -2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "kill",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "fight",
+    "Sentiment_Score": -1,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "kills",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "eager",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "agreement",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "reward",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "inspires",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "failing",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "steal",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "anti",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "grants",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "broke",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "cutting",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "denied",
+    "Sentiment_Score": -2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "illness",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "ruin",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "lobbying",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "drop",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "cool",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "improvement",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "abuses",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "straight",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "top",
+    "Sentiment_Score": 2,
+    "Frequency": "83%"
+  },
+  {
+    "Word": "liked",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "convinced",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "extend",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "pretend",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "solved",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "solutions",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "blocked",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "agree",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "meaningful",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "damage",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "battles",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "doubts",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "excluded",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "limits",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "interests",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "helps",
+    "Sentiment_Score": 2,
+    "Frequency": "77%"
+  },
+  {
+    "Word": "wrong",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "demands",
+    "Sentiment_Score": -1,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "frustrates",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "embarrassing",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "matter",
+    "Sentiment_Score": 1,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "distrust",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "sadly",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "love",
+    "Sentiment_Score": 3,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "leave",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "substantial",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "threatened",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "unacceptable",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "attack",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "strengthened",
+    "Sentiment_Score": 2,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "killed",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "confident",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "promote",
+    "Sentiment_Score": 1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "mistake",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "prosecute",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "danger",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "ensuring",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "reaching",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "vulnerable",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "violating",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "isolated",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "effectively",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "protected",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "hate",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "denies",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "generous",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "faith",
+    "Sentiment_Score": 1,
+    "Frequency": "66%"
+  },
+  {
+    "Word": "risk",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "selfish",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "silly",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "cynicism",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "disappointment",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "noisy",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "alive",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "optimism",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "fail",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "pain",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "empty",
+    "Sentiment_Score": -1,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "pray",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "robust",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "hopes",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "determined",
+    "Sentiment_Score": 2,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "wins",
+    "Sentiment_Score": 4,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "poised",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "prospects",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "opportunities",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "pretty",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "limited",
+    "Sentiment_Score": -1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "chances",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "prosperous",
+    "Sentiment_Score": 3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "successful",
+    "Sentiment_Score": 3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "gift",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "innovate",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "winning",
+    "Sentiment_Score": 4,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "spark",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "fine",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "natural",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "lags",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "winner",
+    "Sentiment_Score": 4,
+    "Frequency": "48%"
+  },
+  {
+    "Word": "super",
+    "Sentiment_Score": 3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "celebrated",
+    "Sentiment_Score": 3,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "fair",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "fame",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "focused",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "tears",
+    "Sentiment_Score": -2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "smart",
+    "Sentiment_Score": 1,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "worth",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "inspire",
+    "Sentiment_Score": 2,
+    "Frequency": "0%"
+  },
+  {
+    "Word": "illegal",
+    "Sentiment_Score": -3,
+    "Frequency": "0%"
+  }
+]

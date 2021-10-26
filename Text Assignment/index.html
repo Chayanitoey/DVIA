@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style type="style.css">
+    </style>
+    <!--<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>-->
+    <body>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+<script>
+var margin = {
+     top: 20,
+     right: 20,
+     bottom: 30,
+     left: 40
+};
+var width = 700 - margin.left - margin.right;
+var height = 500 - margin.top - margin.bottom;
+
+// load the data
+d3.json("Obama.json", function(error, data) {
+
+    data.forEach(function(d) {
+          parsePercentage = d3.quantile("%Y");
+           d.Frequency = parsePercentage(d.Frequency);
+          d.Sentiment_Score = +d.Sentiment_Score;
+    });
+	
+var x = d3.scaleLinear().range([0, width]);
+var y = d3.scaleLinear().range([height, 0]);
+// Scale the range of the data
+x.domain(d3.extent(data, function (d) {
+     return d.Sentiment_Score;
+}));
+y.domain([0, d3.max(data, function (d) {
+     return d.Frequency;
+})]);
+	
+	
+	var valueline = d3.line()
+     .x(function (d) {
+          return x(d.Sentiment_Score);
+     })
+     .y(function (d) {
+          return y(d.Frequency);
+     });
+     
+  var svg = d3.select("#scatter").append("svg")
+     .attr("width", width + margin.left + margin.right)
+     .attr("height", height + margin.top + margin.bottom)
+     .append("g")
+     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+     
+    
+</script>
+
+</body>
+
+</html>
+
