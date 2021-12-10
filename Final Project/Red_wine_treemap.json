@@ -1,0 +1,10082 @@
+[
+  {
+    "Variety": "Red Blend",
+    "Country": "US",
+    "Value": 230
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "US",
+    "Value": 156
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "US",
+    "Value": 184
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "US",
+    "Value": 288
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "US",
+    "Value": 755
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "US",
+    "Value": 5
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "US",
+    "Value": 225
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "US",
+    "Value": 43
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "US",
+    "Value": 9
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "US",
+    "Value": 79
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "US",
+    "Value": 42
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "US",
+    "Value": 4
+  },
+  {
+    "Variety": "Norton",
+    "Country": "US",
+    "Value": 3
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "US",
+    "Value": 32
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "US",
+    "Value": 4
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "US",
+    "Value": 23
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "US",
+    "Value": 3
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "US",
+    "Value": 3
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "US",
+    "Value": 30
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "US",
+    "Value": 10
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "US",
+    "Value": 4
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "US",
+    "Value": 17
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "US",
+    "Value": 4
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "US",
+    "Value": 3
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Port",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "US",
+    "Value": 14
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "US",
+    "Value": 4
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "US",
+    "Value": 4
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "US",
+    "Value": 35
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "US",
+    "Value": 19
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "US",
+    "Value": 6
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Durif",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Baga",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "US",
+    "Value": 3
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Claret",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "US",
+    "Value": 10
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Teran",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "US",
+    "Value": 3
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "US",
+    "Value": 3
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "US",
+    "Value": 2
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "US",
+    "Value": 3
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "US",
+    "Value": 1
+  },
+  {
+    "Variety": "Bual",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "US",
+    "Value": 0
+  },
+  {
+    "Variety": "Red Blend",
+    "Country": "France",
+    "Value": 21
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "France",
+    "Value": 449
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "France",
+    "Value": 5
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "France",
+    "Value": 17
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "France",
+    "Value": 135
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "France",
+    "Value": 8
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "France",
+    "Value": 39
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Norton",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "France",
+    "Value": 76
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "France",
+    "Value": 8
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Port",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "France",
+    "Value": 2
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "France",
+    "Value": 2
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "France",
+    "Value": 6
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Durif",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "France",
+    "Value": 7
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Baga",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Claret",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Teran",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "France",
+    "Value": 4
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "France",
+    "Value": 3
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "France",
+    "Value": 1
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Bual",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "France",
+    "Value": 0
+  },
+  {
+    "Variety": "Red Blend",
+    "Country": "Chile",
+    "Value": 26
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "Chile",
+    "Value": 3
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "Chile",
+    "Value": 21
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "Chile",
+    "Value": 21
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "Chile",
+    "Value": 30
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "Chile",
+    "Value": 2
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "Chile",
+    "Value": 1
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "Chile",
+    "Value": 3
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "Chile",
+    "Value": 17
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Norton",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "Chile",
+    "Value": 1
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "Chile",
+    "Value": 34
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "Chile",
+    "Value": 2
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Port",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "Chile",
+    "Value": 1
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "Chile",
+    "Value": 1
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "Chile",
+    "Value": 6
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Durif",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "Chile",
+    "Value": 1
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "Chile",
+    "Value": 7
+  },
+  {
+    "Variety": "Baga",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "Chile",
+    "Value": 1
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Claret",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "Chile",
+    "Value": 1
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Teran",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "Chile",
+    "Value": 1
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Bual",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "Chile",
+    "Value": 0
+  },
+  {
+    "Variety": "Red Blend",
+    "Country": "Italy",
+    "Value": 225
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "Italy",
+    "Value": 15
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "Italy",
+    "Value": 13
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "Italy",
+    "Value": 32
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "Italy",
+    "Value": 65
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "Italy",
+    "Value": 2
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Norton",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "Italy",
+    "Value": 167
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "Italy",
+    "Value": 34
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "Italy",
+    "Value": 9
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "Italy",
+    "Value": 15
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "Italy",
+    "Value": 161
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "Italy",
+    "Value": 8
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "Italy",
+    "Value": 2
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Port",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "Italy",
+    "Value": 7
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "Italy",
+    "Value": 2
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "Italy",
+    "Value": 5
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "Italy",
+    "Value": 13
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "Italy",
+    "Value": 18
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "Italy",
+    "Value": 2
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "Italy",
+    "Value": 5
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "Italy",
+    "Value": 10
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Durif",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Baga",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "Italy",
+    "Value": 7
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "Italy",
+    "Value": 2
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "Italy",
+    "Value": 3
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Claret",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "Italy",
+    "Value": 36
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "Italy",
+    "Value": 5
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Teran",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "Italy",
+    "Value": 2
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Bual",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "Italy",
+    "Value": 1
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "Italy",
+    "Value": 0
+  },
+  {
+    "Variety": "Red Blend",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "Germany",
+    "Value": 6
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Norton",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Port",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Durif",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Baga",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Claret",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "Germany",
+    "Value": 2
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Teran",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Bual",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "Germany",
+    "Value": 0
+  },
+  {
+    "Variety": "Red Blend",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "New Zealand",
+    "Value": 1
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "New Zealand",
+    "Value": 2
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "New Zealand",
+    "Value": 5
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "New Zealand",
+    "Value": 34
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Norton",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Port",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Durif",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Baga",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Claret",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Teran",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Bual",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "New Zealand",
+    "Value": 0
+  },
+  {
+    "Variety": "Red Blend",
+    "Country": "South Africa",
+    "Value": 11
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "South Africa",
+    "Value": 8
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "South Africa",
+    "Value": 1
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "South Africa",
+    "Value": 4
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "South Africa",
+    "Value": 2
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "South Africa",
+    "Value": 1
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "South Africa",
+    "Value": 7
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "South Africa",
+    "Value": 1
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Norton",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Port",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "South Africa",
+    "Value": 1
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Durif",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Baga",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "South Africa",
+    "Value": 1
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "South Africa",
+    "Value": 1
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Claret",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "South Africa",
+    "Value": 7
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Teran",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "South Africa",
+    "Value": 1
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Bual",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "South Africa",
+    "Value": 0
+  },
+  {
+    "Variety": "Red Blend",
+    "Country": "Argentina",
+    "Value": 18
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "Argentina",
+    "Value": 5
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "Argentina",
+    "Value": 4
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "Argentina",
+    "Value": 10
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "Argentina",
+    "Value": 10
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "Argentina",
+    "Value": 2
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "Argentina",
+    "Value": 1
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "Argentina",
+    "Value": 7
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "Argentina",
+    "Value": 120
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Norton",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "Argentina",
+    "Value": 4
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "Argentina",
+    "Value": 1
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "Argentina",
+    "Value": 2
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Port",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "Argentina",
+    "Value": 4
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "Argentina",
+    "Value": 12
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "Argentina",
+    "Value": 1
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "Argentina",
+    "Value": 2
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "Argentina",
+    "Value": 2
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Durif",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "Argentina",
+    "Value": 1
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Baga",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Claret",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "Argentina",
+    "Value": 1
+  },
+  {
+    "Variety": "Teran",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Bual",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "Argentina",
+    "Value": 0
+  },
+  {
+    "Variety": "Red Blend",
+    "Country": "Spain",
+    "Value": 52
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "Spain",
+    "Value": 2
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Norton",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "Spain",
+    "Value": 97
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "Spain",
+    "Value": 45
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "Spain",
+    "Value": 13
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "Spain",
+    "Value": 11
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "Spain",
+    "Value": 23
+  },
+  {
+    "Variety": "Port",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "Spain",
+    "Value": 4
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "Spain",
+    "Value": 5
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "Spain",
+    "Value": 6
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "Spain",
+    "Value": 2
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Durif",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Baga",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Claret",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "Spain",
+    "Value": 3
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "Spain",
+    "Value": 7
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Teran",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "Spain",
+    "Value": 11
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Bual",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "Spain",
+    "Value": 1
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "Spain",
+    "Value": 0
+  },
+  {
+    "Variety": "Red Blend",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "Portugal",
+    "Value": 1
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "Portugal",
+    "Value": 6
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "Portugal",
+    "Value": 1
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Norton",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "Portugal",
+    "Value": 179
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "Portugal",
+    "Value": 1
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "Portugal",
+    "Value": 2
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Port",
+    "Country": "Portugal",
+    "Value": 27
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "Portugal",
+    "Value": 2
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "Portugal",
+    "Value": 2
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "Portugal",
+    "Value": 11
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "Portugal",
+    "Value": 2
+  },
+  {
+    "Variety": "Durif",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Baga",
+    "Country": "Portugal",
+    "Value": 3
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Claret",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Teran",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "Portugal",
+    "Value": 1
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "Portugal",
+    "Value": 2
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Bual",
+    "Country": "Portugal",
+    "Value": 1
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "Portugal",
+    "Value": 0
+  },
+  {
+    "Variety": "Red Blend",
+    "Country": "Austria",
+    "Value": 10
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "Austria",
+    "Value": 13
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Norton",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "Austria",
+    "Value": 16
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "Austria",
+    "Value": 20
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "Austria",
+    "Value": 4
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Port",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "Austria",
+    "Value": 8
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Durif",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Baga",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Claret",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Teran",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Bual",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "Austria",
+    "Value": 0
+  },
+  {
+    "Variety": "Red Blend",
+    "Country": "Australia",
+    "Value": 5
+  },
+  {
+    "Variety": "Bordeaux-style Red Blend",
+    "Country": "Australia",
+    "Value": 1
+  },
+  {
+    "Variety": "Merlot",
+    "Country": "Australia",
+    "Value": 1
+  },
+  {
+    "Variety": "Syrah",
+    "Country": "Australia",
+    "Value": 3
+  },
+  {
+    "Variety": "Aglianico",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Noir",
+    "Country": "Australia",
+    "Value": 13
+  },
+  {
+    "Variety": "Cabernet Blend",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz",
+    "Country": "Australia",
+    "Value": 43
+  },
+  {
+    "Variety": "Zinfandel",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Corvina, Rondinella, Molinara",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Sirah",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "G-S-M",
+    "Country": "Australia",
+    "Value": 1
+  },
+  {
+    "Variety": "Cabernet Franc",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec",
+    "Country": "Australia",
+    "Value": 1
+  },
+  {
+    "Variety": "Chambourcin",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Norton",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguese Red",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Nebbiolo",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo Blend",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Barbera",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Mencía",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Nerello Mascalese",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Montepulciano",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Zweigelt",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Blaufränkisch",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Austrian Red Blend",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese",
+    "Country": "Australia",
+    "Value": 1
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Syrah",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Sagrantino",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Meritage",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Petite Verdot",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Shiraz",
+    "Country": "Australia",
+    "Value": 2
+  },
+  {
+    "Variety": "Corvina",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Provence red blend",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Teroldego",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Viognier",
+    "Country": "Australia",
+    "Value": 2
+  },
+  {
+    "Variety": "Shiraz-Cabernet Sauvignon",
+    "Country": "Australia",
+    "Value": 3
+  },
+  {
+    "Variety": "Merlot-Cabernet Franc",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Merlot",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Castelão",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Port",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Sauvignon",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Mourvèdre",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Saperavi",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Bonarda",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Albarossa",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Dolcetto",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero di Troia",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Negroamaro",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Marsanne",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Garnacha",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Refosco",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Tempranillo-Cabernet Sauvignon",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante Bouschet",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache",
+    "Country": "Australia",
+    "Value": 1
+  },
+  {
+    "Variety": "Merlot-Tannat",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Nero",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Cabernet Franc",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Tempranillo",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha Tintorera",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Petit Verdot",
+    "Country": "Australia",
+    "Value": 1
+  },
+  {
+    "Variety": "Rosado",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Syrah",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "St. Laurent",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco Grasparossa",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Sangiovese Grosso",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Gaglioppo",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Frappato",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Lambrusco",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache Blend",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Negrette",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Carmenère",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Aragonês",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Durif",
+    "Country": "Australia",
+    "Value": 1
+  },
+  {
+    "Variety": "Garnacha-Syrah",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet Sauvignon",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Trepat",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Cesanese d'Affile",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet Sauvignon",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Malbec-Merlot",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignan",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Baga",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Lagrein",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Cinsault",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Ruché",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Cabernet",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Xinomavro",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Brachetto",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Alicante",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Chelois",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Perricone",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Claret",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Nero d'Avola",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Dornfelder",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Primitivo",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Pedro Ximénez",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Monastrell-Syrah",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Grenache",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Graciano",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Trousseau",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinotage",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Colorino",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Mourvèdre",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinto Fino",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Malbec",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Teran",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Schiava",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Casavecchia",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta de Toro",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamay Noir",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Kalecik Karasi",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Syrah",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Agiorgitiko",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Pinot Meunier",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Blauburger",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Fer Servadou",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Lemberger",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Tannat-Cabernet Franc",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Piedirosso",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Madeira",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Carmenère-Syrah",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Centesimino",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Black Muscat",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Grenache",
+    "Country": "Australia",
+    "Value": 1
+  },
+  {
+    "Variety": "Cabernet Sauvignon-Malbec",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Shiraz",
+    "Country": "Australia",
+    "Value": 1
+  },
+  {
+    "Variety": "Malbec-Tannat",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Monastrell",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Prugnolo Gentile",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Tinta Fina",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Prieto Picudo",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Malbec",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Carineña",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Petite Verdot",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Petite Sirah",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Susumaniello",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Merlot-Cabernet",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Counoise",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Moravia",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Syrah-Carignan",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Ramisco",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Listán Negro",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Portuguiser",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Bobal",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Cabernet Franc-Merlot",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Grenache-Mourvèdre",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Shiraz-Cabernet",
+    "Country": "Australia",
+    "Value": 1
+  },
+  {
+    "Variety": "Syrah-Viognier",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Carignane",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cabernet",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Tempranillo",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Pallagrello Nero",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Touriga Nacional-Cabernet Sauvignon",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Mataro",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Bual",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Groppello",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Garnacha-Cariñena",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Kekfrankos",
+    "Country": "Australia",
+    "Value": 0
+  },
+  {
+    "Variety": "Gamza",
+    "Country": "Australia",
+    "Value": 0
+  }
+]
